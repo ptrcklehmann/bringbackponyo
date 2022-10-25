@@ -2,8 +2,8 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Next.js Blog Starter Kit',
-    description: 'Clone and deploy your own Next.js portfolio in minutes.',
+    title: 'Bring back Ponyo',
+    description: '🚨 Ponyo der hund ist vermisst 🚨 seit dem 22.10.2022 in der Sewanstraße in 10319 Berlin - Lichtenberg / Jack Russell Mix, Rüde / gechipt und registriert / wurde in der Sewanstr. 4 bei Kaufland entwendet und ist daher möglicherweise in Begleitung unterwegs',
     image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
   }
 
